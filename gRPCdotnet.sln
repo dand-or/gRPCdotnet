@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCdotnet", "gRPCdotnet\gRPCdotnet.csproj", "{AAF5528D-A38F-488C-A9E1-2A3E1E92E769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCdotnetClient", "gRPCdotnetClient\gRPCdotnetClient.csproj", "{357F419F-47F1-49E3-82A2-9A7B0A8EA154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF5528D-A38F-488C-A9E1-2A3E1E92E769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF5528D-A38F-488C-A9E1-2A3E1E92E769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF5528D-A38F-488C-A9E1-2A3E1E92E769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF5528D-A38F-488C-A9E1-2A3E1E92E769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357F419F-47F1-49E3-82A2-9A7B0A8EA154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357F419F-47F1-49E3-82A2-9A7B0A8EA154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357F419F-47F1-49E3-82A2-9A7B0A8EA154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357F419F-47F1-49E3-82A2-9A7B0A8EA154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
